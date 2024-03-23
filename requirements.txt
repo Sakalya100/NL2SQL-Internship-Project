@@ -1,0 +1,6 @@
+mysql-connector-python
+pymysql
+openai
+streamlit
+streamlit-chat
+python-dotenv
